@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
-<h3 align="center">i am a freelance hacker</h3>
+<h3 align="center">i am a CyberSecurity Expert</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackersanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="hackersanjeev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackersanjeev" alt="hackersanjeev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/HackerSanjeev](https://linktr.ee/HackerSanjeev)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/_ethical_coder_](https://linktr.ee/_ethical_coder_)
 
 - 📝 I regularly write articles on [https://sanjeevthehacker.blogspot.com/](https://sanjeevthehacker.blogspot.com/)
 
@@ -23,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersanjeev&show_icons=true&locale=en&layout=compact" alt="hackersanjeev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackersanjeev&show_icons=true&locale=en" alt="hackersanjeev" /></p>
-
