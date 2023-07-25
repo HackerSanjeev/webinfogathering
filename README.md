@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_hacker_sanjeev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hacker_sanjeev_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hackersanjeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackersanjeev" height="30" width="40" /></a>
+<a href="https://instagram.com/_ethical_coder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hacker_sanjeev_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/_ethical_coder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackersanjeev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
